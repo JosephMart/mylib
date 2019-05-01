@@ -1,7 +1,7 @@
 {
   "name": "josephmart-mylib",
   "author": "Joseph Martinsen",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.js",
   "umd:main": "dist/mylib.umd.production.js",
   "module": "dist/mylib.es.production.js",
