@@ -1,13 +1,20 @@
 {
-  "name": "mylib",
+  "name": "josephmart-mylib",
+  "author": "Joseph Martinsen",
   "version": "0.1.0",
   "main": "dist/index.js",
   "umd:main": "dist/mylib.umd.production.js",
   "module": "dist/mylib.es.production.js",
   "typings": "dist/index.d.ts",
+  "license": "MIT",
   "files": [
     "dist"
   ],
+  "np": {
+    "publishConfig": {
+      "access": "public"
+    }
+  },
   "scripts": {
     "start": "tsdx watch",
     "build": "tsdx build",
