@@ -1,0 +1,36 @@
+{
+  "/Users/josephmartinsen/dev/mylib/dist/mylib.cjs.development.js": {
+    "bundled": 125,
+    "minified": 72,
+    "gzipped": 86
+  },
+  "/Users/josephmartinsen/dev/mylib/dist/mylib.cjs.production.js": {
+    "bundled": 81,
+    "minified": 50,
+    "gzipped": 66
+  },
+  "/Users/josephmartinsen/dev/mylib/dist/mylib.umd.development.js": {
+    "bundled": 423,
+    "minified": 237,
+    "gzipped": 179
+  },
+  "/Users/josephmartinsen/dev/mylib/dist/mylib.umd.production.js": {
+    "bundled": 373,
+    "minified": 215,
+    "gzipped": 165
+  },
+  "/Users/josephmartinsen/dev/mylib/dist/mylib.es.production.js": {
+    "bundled": 63,
+    "minified": 33,
+    "gzipped": 52,
+    "treeshaked": {
+      "rollup": {
+        "code": 0,
+        "import_statements": 0
+      },
+      "webpack": {
+        "code": 951
+      }
+    }
+  }
+}
